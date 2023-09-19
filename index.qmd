@@ -1,11 +1,41 @@
 ---
-title: "people_of_posit"
+title: "the people of posit: bringing personality to R packages"
 ---
 
-This is a Quarto website.
+Thank you for listening to our talk! If you'd like to connect with us, you can contact us at the following socials:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](images/JP.png){fig-alt="JP Flores"}
 
-```{r}
-1 + 1
-```
+::: {#name .h5 style="text-align: center"}
+# **JP Flores**
+:::
+
+::: {#fig-jp-socials layout-ncol="5" style="fig-align:center"}
+[![](images/email.png){width="85"}](mailto:jpflores013@gmail.com)
+
+[![](images/github.png){fig-alt="JP's GitHub" width="85"}](https://github.com/jpflores-13)
+
+[![](images/linkedin.png){fig-alt="JP's LinkedIn" width="85"}](https://www.linkedin.com/in/john-patrick-flores/)
+
+[![](images/twitter.png){fig-alt="JP's twitter" width="85"}](https://twitter.com/jpflores_31)
+:::
+
+![](images/Sarah.png)
+
+::: {#name2 .h5 style="text-align: center"}
+# **Sarah Parker**
+:::
+
+::: {#fig-sarah-socials layout-ncol="5" style="fig-align:center"}
+[![](images/email.png){width="85"}](mailto:smp3800@gmail.com)
+
+[![](images/github.png){fig-alt="Sarah's GitHub" width="85"}](https://github.com/sarmapar)
+
+[![](images/linkedin.png){fig-alt="JP's LinkedIn" width="85"}](https://www.linkedin.com/in/sarahmaeparker/)
+
+[![](images/twitter.png){fig-alt="JP's twitter" width="85"}](https://twitter.com/sarahinsilico)
+:::
+
+Check out [Yihui's blog](https://yihui.org/en/) & be on the lookout for the full answers to our interview with him!
+
+If you are interested in listening to From Where Does It STEM?, check out this [Spotify link!](https://open.spotify.com/show/1KLdFOVbk70n2qAz6zcdv2?si=27bd92997a174b3e)
