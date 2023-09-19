@@ -10,7 +10,7 @@ Thank you for listening to our talk! If you'd like to connect with us, you can c
 # **JP Flores**
 :::
 
-::: {#fig-jp-socials layout-ncol="5" style="fig-align:center"}
+::: {#fig-jp-socials layout-ncol="5"}
 [![](images/email.png){width="85"}](mailto:jpflores013@gmail.com)
 
 [![](images/github.png){fig-alt="JP's GitHub" width="85"}](https://github.com/jpflores-13)
@@ -26,7 +26,7 @@ Thank you for listening to our talk! If you'd like to connect with us, you can c
 # **Sarah Parker**
 :::
 
-::: {#fig-sarah-socials layout-ncol="5" style="fig-align:center"}
+::: {#fig-sarah-socials layout-ncol="5"}
 [![](images/email.png){width="85"}](mailto:smp3800@gmail.com)
 
 [![](images/github.png){fig-alt="Sarah's GitHub" width="85"}](https://github.com/sarmapar)
